@@ -13,6 +13,7 @@
 		B12EF3C62AFBCA7B00ACE127 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B12EF3C42AFBCA7B00ACE127 /* Main.storyboard */; };
 		B12EF3C82AFBCA7D00ACE127 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B12EF3C72AFBCA7D00ACE127 /* Assets.xcassets */; };
 		B12EF3CB2AFBCA7D00ACE127 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B12EF3C92AFBCA7D00ACE127 /* LaunchScreen.storyboard */; };
+		B12EF3D32AFCAB1D00ACE127 /* EffectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12EF3D22AFCAB1D00ACE127 /* EffectViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B12EF3C72AFBCA7D00ACE127 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B12EF3CA2AFBCA7D00ACE127 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B12EF3CC2AFBCA7D00ACE127 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B12EF3D22AFCAB1D00ACE127 /* EffectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B12EF3BE2AFBCA7B00ACE127 /* AppDelegate.swift */,
 				B12EF3C02AFBCA7B00ACE127 /* SceneDelegate.swift */,
 				B12EF3C22AFBCA7B00ACE127 /* ViewController.swift */,
+				B12EF3D22AFCAB1D00ACE127 /* EffectViewController.swift */,
 				B12EF3C42AFBCA7B00ACE127 /* Main.storyboard */,
 				B12EF3C72AFBCA7D00ACE127 /* Assets.xcassets */,
 				B12EF3C92AFBCA7D00ACE127 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B12EF3C32AFBCA7B00ACE127 /* ViewController.swift in Sources */,
+				B12EF3D32AFCAB1D00ACE127 /* EffectViewController.swift in Sources */,
 				B12EF3BF2AFBCA7B00ACE127 /* AppDelegate.swift in Sources */,
 				B12EF3C12AFBCA7B00ACE127 /* SceneDelegate.swift in Sources */,
 			);
